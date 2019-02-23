@@ -1,6 +1,7 @@
 {
 	"name": "listtosql",
 	"displayName": "ListToSQL",
+	"publisher": "reZach",
 	"description": "Converts a list of values into a list that SQL can use.",
 	"version": "0.0.1",
 	"engines": {
