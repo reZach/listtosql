@@ -10,3 +10,7 @@ Converts any list of values into a comma-separated SQL list (enclosed by parenth
 ### 0.0.1
 
 Initial release of the package
+
+### 0.0.2
+
+Extension now works if you close and re-open new tabs. Quoted values are now escaped automatically when running the List to SQL command.
