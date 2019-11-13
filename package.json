@@ -3,7 +3,7 @@
 	"displayName": "ListToSQL",
 	"publisher": "reZach",
 	"description": "Converts a list of values into a list that SQL can use.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
