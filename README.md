@@ -1,5 +1,7 @@
-# Features
+# Install today
+[Find the extension here on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=reZach.listtosql).
 
+# Features
 Converts any list of values into a comma-separated SQL list (enclosed by parentheses).
 
 ![](./images/animation.gif)
